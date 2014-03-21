@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>918E8896-9DBF-412C-8D9C-B5AE417DD5C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>objective-vcdiff-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C61DA33F-E779-4A56-82B1-100865C599B8</key>
+		<string>https://github.com/crawfjs/objective-vcdiff.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>objective-vcdiff-ios/objective-vcdiff-ios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C61DA33F-E779-4A56-82B1-100865C599B8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/crawfjs/objective-vcdiff.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C61DA33F-E779-4A56-82B1-100865C599B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C61DA33F-E779-4A56-82B1-100865C599B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objective-vcdiff</string>
+		</dict>
+	</array>
+</dict>
+</plist>

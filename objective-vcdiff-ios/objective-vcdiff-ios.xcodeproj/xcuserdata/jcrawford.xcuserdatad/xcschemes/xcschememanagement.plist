@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>objective-vcdiff-ios 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>objective-vcdiff-ios-universal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>objective-vcdiff-ios.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>objective-vcdiff-iosTests copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6E53706018D409E6008D3C3E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D1118D4E2AC00640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D1E18D4E2AC00640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D3918D4E2D800640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D4618D4E2D800640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D5D18D4E35F00640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D6E18D4E44300640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF88D7B18D4E44300640F3C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2AAC07D0554694100DB518D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
